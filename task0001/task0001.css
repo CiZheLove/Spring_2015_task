@@ -1,0 +1,22 @@
+/*段落的文字大小变成12px，
+文字颜色是黄色，
+带一个黑色的背景色
+图片有一个红色的，2px粗的边框*/
+h1 {
+    color: blue;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+p {
+    color: black;
+    background-color: yellow;
+}
+
+img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: brown;
+}
